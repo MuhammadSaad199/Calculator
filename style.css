@@ -1,0 +1,48 @@
+.main{
+width: 300px;
+height: 475px;
+    background-color: #150B48;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.cal{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+margin: 5px;
+}
+.cal-sub{
+    color: #FED401;
+}
+
+    
+.result > input{
+    color: white;
+    background: #000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 292px ; 
+    height: 100px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+margin: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+.btn-orange{
+    background-color: orangered;
+    color: white;
+    margin: 10px;
+        width: 45px;
+        height: 45px;
+        border-radius: 100px;
+}
+
+.container{
+  margin: 0 auto;
+}
